@@ -438,11 +438,12 @@ h2#countdowntitle{
   padding: 8px 12px;
   background: #ffeef1;
   border-radius: 10px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "League Spartan";
   font-size: 15px;
   font-weight: 500;
-  color: #333;
+  color: #5d322f;
   transition: transform 0.2s ease;
+  justify-content: center;
 }
 
 /* Cute hover effect */
